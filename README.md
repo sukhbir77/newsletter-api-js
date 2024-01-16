@@ -18,4 +18,4 @@ The Newsletter Subscription Webpage is designed to streamline the process of col
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sukhbir77/Newsletter-API.git
+   git clone https://github.com/sukhbir77/newsletter-api-js.git
